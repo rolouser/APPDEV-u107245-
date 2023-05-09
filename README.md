@@ -1,54 +1,51 @@
-# APPDEV-u107245-
+# INDICATIONS OF THE ARTICLE UPLOADED IN THE REPOSITORY
 
-# INDICACIONES DEL ARTICULO SUBIDO EN EL REPOSITORIO
+## NAME OF THE INVESTIGATION
+OBTAINING A HYDROGRAPHIC BASIN THROUGH THE USE OF A COMMERCIAL SOFTWARE “ARCGIS AND THE USE OF A FREE SOFTWARE “SAGA”. CASE STUDY MUNICIPALITY OF PORCESITO, ANTIOQUIA
 
-## NOMBRE DE LA INVESTIGACION
-OBTENCIÓN DE  UNA CUENCA HIDROGRÁFICA MEDIANTE EL USO DE UN SOFTWARE COMERCIAL “ARCGIS Y EL USO DE UN SOFTWARE LIBRE “SAGA”. CASO DE ESTUDIO MUNICIPIO DE PORCESITO, ANTIOQUIA 
+## AUTHOR
+Brian Castro Benavides
+SPECIALIST IN GEOMATICS
 
-##  AUTOR
-Brian Castro Benavides 
-ESPECIALISTA EN GEOMATICA
+## UNIVERSITY
+MILITAR UNIVERSITY OF NEW GRANADA
 
-## UNIVERSIDAD
-UNIVERSIDAD MILITAR NUEVA GRANADA
+### FACULTY
+IT WAS DEVELOPED IN THE ENGINEERING FACULTY
 
-### FACULTAD
-SE DESARROLLO EN LA FACIULTAD DE INGENIERIA
+### OBJECT OF THE STUDY
+DEGREE WORK TO OBTAIN THE TITLE OF SPECIALIST IN GEOMATICS
 
-### OBJETO DEL ESTUDIO
-TRABAJODE GRADO PARA OBTENER EL TITULO DE ESPECIALISTA EN GEOMATICA
+## CONTACT INFORMATION
+Brian Steve Castro Benavides
+Cadastral Engineer and Geodesist
+Geomatics student
+Militar University of New Granada
+Bogota Colombia
+U3101343@unimilitar.edu.co
 
-## DATOS DE CONTACTO
-Brian Steve Castro Benavides 
-Ingeniero Catastral y Geodesta 
-Estudiante de especialización en geomática 
-Universidad Militar Nueva Granada  
-Bogotá, Colombia 
-U3101343@unimilitar.edu.co 
-
-# RESUMEN 
+# SUMMARY
 
 
-La ubicación geográfica de Colombia, las condiciones geomorfológicas y de 
-terreno, junto con la abundante oferta hídrica, hacen del país, un territorio idóneo 
-para realizar estudios multicriterio y de análisis variado, para la toma de decisiones 
-en proyectos ambientales y de impacto antropomórfico de corto, mediano y largo 
-plazo. 
-Debido al avance tecnológico tanto en software licenciados de diferentes costos 
-como lo es Arcgis y también de software libre de codificación gratuita y abierta para 
-instalar desde internet, los análisis mencionados anteriormente pueden ser 
-modelados, plasmados de forma dinámica en una amplia oferta de los mismos. 
-Como profesionales en geomática, con el criterio teórico y práctico surge la 
-necesidad de aplicar metodologías de comparación, que cumplan criterios 
-normativos y técnicos, precisando la forma de tratar la información espacial, 
-teniendo en cuenta como obtener el software, instalación y manejo, para así dar un 
-concepto de los mismo dependiendo del escenario de los proyectos a trabajar y el 
-objetivo por el cual se utilizó alguno de los programas. Para hacer la comparación 
-aplicada del resultado de análisis hidrográfico de cuencas obtenido con los dos 
-software, se implementó para una zona del municipio de Porcesito del departamento 
-de Antioquia, soportado con datos de la zona como lo son los modelos digitales de 
-elevación y cartografía base. 
-
+The geographical location of Colombia, the geomorphological conditions and
+terrain, together with the abundant water supply, make the country a suitable territory
+to carry out multicriteria studies and varied analysis, for decision making
+in short, medium and long environmental and anthropomorphic impact projects
+term.
+Due to technological advances in both licensed software of different costs
+such as Arcgis and also free and open source code software for
+install from the internet, the scans mentioned above can be
+modeled, embodied dynamically in a wide range of them.
+As professionals in geomatics, with the theoretical and practical criteria, the
+need to apply comparison methodologies that meet criteria
+normative and technical, specifying the way to treat spatial information,
+taking into account how to obtain the software, installation and management, in order to give a
+their concept depending on the scenario of the projects to be worked on and the
+purpose for which one of the programs was obtained. To make the comparison
+applied to the result of the hydrographic analysis of basins obtained with the two
+software, was implemented for an area of ​​the municipality of Porcesito in the department
+of Antioquia, supported with data from the area such as digital models
+elevation and base mapping.
 
 
 
